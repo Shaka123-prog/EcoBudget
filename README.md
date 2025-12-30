@@ -26,3 +26,8 @@ This project requires a backend server so it was deployed using Render.
 1. Open the live link above.
 2. Register a new account and log in.
 3. You will be directed to the Eco dashboard where you can view spending summaries, add purchases and view purchase history 
+
+# Individual Submission
+This repository is an individual submission copy of the EcoBudget group project.
+
+Submitted by: Manqoba Sihlongonyane
